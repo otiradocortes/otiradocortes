@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @otiradocortes, Osvaldo, or Ozzie.
-- 👀 I’m interested in power systems, big data algorithms, and FPGA design. The possibilites are limitless!
+- 👀 I’m interested in Machine Learning, Control Systems, and Automation. The possibilites are limitless!
 - 🌱 B.S in Electrical Engineering from the University of South Florida in Tampa. 
 - 📫 How to reach me -> Osvaldotiradocortes@gmail.com for the quickest response!
 
